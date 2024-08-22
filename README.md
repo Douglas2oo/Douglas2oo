@@ -1,3 +1,8 @@
+ <div align="center">
+  <h1> <img src="https://profile-counter.glitch.me/Douglas2oo/count.svg"> Visitors
+    </h1>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas2oo&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://info.flagcounter.com/1NMB"><img src="https://s01.flagcounter.com/count2/1NMB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
